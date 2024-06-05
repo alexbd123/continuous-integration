@@ -18,5 +18,3 @@ function findLongestString(stringArr) {
 }
 
 module.exports = findLongestString;
-
-
